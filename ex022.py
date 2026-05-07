@@ -1,6 +1,0 @@
-nome = str(input("digite seu nome")).strip()
-print("analisndo seu nome")
-print("seu nome em maisculas é {}".format(nome.upper())) 
-print("seu nome em maiusculas é{}".format(nome.lower())) 
-print("seu nome tem ao todo { letras}".format(len(nome)-nome.count(" ")))
-print("seu primeiro nome é {} e ele tem {} letras". format(dividido[0], len(dividido[0])))
